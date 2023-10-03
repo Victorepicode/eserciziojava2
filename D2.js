@@ -5,8 +5,7 @@
 /* SCRIVI QUI LA TUA RISPOSTA */
 let number1 = 6;
 let number2 = 8;
-console.log(number2 < number1);
-if (number1 > numero2) {
+if (number1 > number2) {
   console.log("è il più grande number1");
 } else if (number2 > number1) {
   console.log("è il più grande number2");
