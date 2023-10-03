@@ -6,6 +6,11 @@
 let number1 = 6;
 let number2 = 8;
 console.log(number2 < number1);
+if (number1 > numero2) {
+  console.log("è il più grande number1");
+} else if (number2 > number1) {
+  console.log("è il più grande number2");
+}
 
 /* ESERCIZIO 2
   Scrivi un algoritmo che mostri "not equal" in console se un numero intero fornito è diverso da 5.
